@@ -31,6 +31,8 @@
 * Quarantine - all network connections closed, all non-system processes closed, user given OS state report, no files modified without user permission
 * Clipboard Protector - protects from clipboard stealers
 * Molly the Mole - a character inspired by Clippy, will be a primitive, hard-coded chatbot with a primitive weight system
+* Executable warning - for example, a common attack is making a filename like this: "IamNotMalware.mp4[Braille Characters - ammount to a large space].exe". If the file has an extention like this, the user will get warned that this is an executable
+* Template Run - run module templates in menu
 
 ///Done\\\
 * Menu module to operate on other modules - the first thing made on this project, will show Security Tip of the Day

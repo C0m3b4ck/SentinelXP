@@ -1,7 +1,11 @@
 # SentinelXP
 An antivirus for Windows XP focusing on diagnostics and user choice. Free, forever, no spyware, no bloatware.
 # What is it?
-There will be a few scripts combined by an interface.
+A bunch of modules that help you stay safe on your XP.
+# The Sentinel Project
+SentinelXP will be remade for other Windows versions.
+With online protection: XP, Vista, 7, 8, maybe 10
+Without online protection: 95, 98, 2000, NT, maybe ME
 # Original Author 
 Development was started on April 13th, 2025, by C0m3b4ck.
 # Contributors 

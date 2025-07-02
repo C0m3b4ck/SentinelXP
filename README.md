@@ -54,7 +54,7 @@ As of now, there are no more contributors than the original author.
 * Menu module to operate on other modules
 * Sneaky download prevention
 * A LOT MORE
-For more, check out ideas.txt: https://github.com/Martingonn/SentinelXP/blob/main/Sentinel_CPP_Archive/ideas.txt
+For more, check out ideas.txt: https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/ideas.txt
 
 # Downloads
 ![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/SentinelXP/total)

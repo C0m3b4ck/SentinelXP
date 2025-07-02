@@ -1,38 +1,36 @@
-* Packet inspection
+//New modules\\
+* Packet inspection of incoming packets
 * Opening .exe and inspecting contents - checks for suspicious code inside .exe files, like obfuscation
 * Anti-phishing website module - prevents user from connecting to malicious site by terminating that connection
 * MITM detector - does not allow user to browse until they get rid of MITM
-* GUI version (maybe)
 * Sneaky/side download prevention - websites will not download anything without your knowledge!
-* Cookie and tracker blocker
-* Fingerprinting prevention
 * Hash comparer - checks for malware from malware database, will also use fuzzy hashes
 * Hash maker - if you find new malware, you will be able to get its hash and send the hash to me so that it will be detected in the future
-* Fortifier module - turns off selected unsafe features. Will include:
-  * RDP port
-  * USB autorun
-  * XP File Sharing Services
 * Rootkit scanner - will check for rootkits
-* Vigilant Mode - you have to accept Windows processes manually
 * .cfg files that saves user preferences FOR EVERY SCRIPT
-* Light Mode and Dark Mode for GUI (maybe, depends on GUI)
 * Proxy - routes traffic through another OS, preferably a new one. The proxy will detect any malicious traffic that you might exhibit.
-* "Unknown Publisher" warning will be tweaked
 * Potentially Unwanted Program and Bloatware detection (also via hashes and fuzzy hashes)
-* Intrusive Cookie Clearance
-* Temp file clearance (maybe)
 * Behaviour blocker - blocks common malware behaviours like opening ports
-* Installer - will have "no antivirus" popup removal and GUID generation built-in
+* Installer for Sentinel XP - will have "no antivirus" popup removal and GUID generation built-in
 * Instruction manual - will be a .pdf outlining file structure and different quirks of the modules
 * Directory Protector - protects specified directories (or entire disk) from being accessed/modified by any process except this one (will require custom kernel module)
 * Get Update - checks this repo for new updates, will probably have a way of updating automatically (without user manually moving files)
-* Anti Lockout - no popup will force you to act - just close it and continue doing whatever you were doing
 * Install Check - inspired by Hitman Pro, checks what an installer does/modifies
 * Quarantine - all network connections closed, all non-system processes closed, user given OS state report, no files modified without user permission
-* Clipboard Protector - protects from clipboard stealers
 * Molly the Mole - a character inspired by Clippy, will be a primitive, hard-coded chatbot with a primitive weight system
 * Executable warning - for example, a common attack is making a filename like this: "IamNotMalware.mp4[Braille Characters - ammount to a large space].exe". If the file has an extention like this, the user will get warned that this is an executable
-* Template Run - run module templates in menu
+* Activity Wipe - similar to the tool from Glarysoft that clears activity-related metadata
+* Temp file clearance (related to the one above)
+* Pinpoint Uninstaller - will help with uninstalling programs like AVG, which tend to leave some spyware behind if you use their native uninstaller. Similar to the tool by Glarysoft
+
+//Tweaks\\
+* GUI version (maybe)
+* Light Mode and Dark Mode for GUI (maybe, depends on GUI)
+* Intrusive Cookie Clearance (maybe, browser-related)
+* Vigilant Mode - you have to accept Windows processes manually
+* "Unknown Publisher" warning will be tweaked
+* Anti Lockout - no popup will force you to act - just close it and continue doing whatever you were doing
+* Clipboard Protector - protects from clipboard stealers
 
 ///Done\\\
 * Menu module to operate on other modules - the first thing made on this project, will show Security Tip of the Day
@@ -42,6 +40,7 @@
 * RAM checker - shows RAM used by Windows and non-Windows processes
 * Metadata wiper - wipes metadata from .jpg and .txt files
 * Connection Console - checks which processes are trying to "call home" (reaching out to servers, especially if that is unwanted)
+* Fortifier Module - makes your machine invulnreable from selected XP exploits (for example via closing vulnreable and obsolete ports)
 
 ///Expansion ideas\\\
 * The antivirus will remove the "No antivirus" pop-up only if it has unique GUID for user, therefore a GUID generator will be needed
@@ -50,11 +49,15 @@
 * File monitor will show and block malicious processes (will require custom kernel module)
 * Make Metadata Wiper clean more files of metadata
 * Add connection whitelist/blacklist to Connection Console
+* Fortifier will prevent more exploits, will save selected ones to .conf
+* Menu - will run selected program templates
 
 //Bugs\\
 * Fix A00001 error for Storage Check
 * Fix A00002 error for Metadata Wiper
 * Fix A00003 error for Windows Integrity Check
+
+//Fixed bugs\\
 
 ///Finished expansion ideas\\\
 * Windows Integrity Check checks for A LOT MORE system files missing. Moreover, you can create a list of files to check for yourself.

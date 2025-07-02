@@ -3,7 +3,7 @@ An antivirus for Windows XP focusing on diagnostics and user choice. Free, forev
 # What is it?
 There will be a few scripts combined by an interface.
 # Original Author 
-Development was started on April 13th, 2025, by Marcin Jacek Chmiel.
+Development was started on April 13th, 2025, by C0m3b4ck.
 # Contributors 
  <br>***Code***<br>
 As of now, there are no more contributors than the original author.

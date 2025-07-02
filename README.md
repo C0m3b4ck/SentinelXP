@@ -7,7 +7,6 @@ Development was started on April 13th, 2025, by Marcin Jacek Chmiel.
 # Contributors 
  <br>***Code***<br>
 As of now, there are no more contributors than the original author.
-If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com*
  # How can you contribute?
  Simply make a contribution here, on Github. Another, better way, would be to send me links to malware repositories so that I can train the antivirus.
  <br> Remember, you have to send me the links/files yourself, as I have no server to send the files to. When I will have, I will only send out file hashes with your explicit permission. You will be able to see that, as the project will be open-source forever.
@@ -54,4 +53,4 @@ If you have any problems or suggestions, contact me: *martingonn-dev@outlook.com
 For more, check out ideas.txt: https://github.com/Martingonn/SentinelXP/blob/main/Sentinel_CPP_Archive/ideas.txt
 
 # Downloads
-![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/SentinelXP/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/SentinelXP/total)

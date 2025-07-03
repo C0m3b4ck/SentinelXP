@@ -49,7 +49,7 @@
 * File monitor will show and block malicious processes (will require custom kernel module)
 * Make Metadata Wiper clean more files of metadata
 * Add connection whitelist/blacklist to Connection Console
-* Fortifier will prevent more exploits, will save selected ones to .conf
+* Fortifier will prevent more exploits
 * Menu - will run selected program templates
 
 //Bugs\\
@@ -64,3 +64,4 @@
 * Windows Integrity Check allows for presets. For example, if you modified your XP using nLite, you will be able to skip the warnings for components that you removed.
 * Windows Integrity Check will play success.wav when integrity is above 95%
 * Windows Integrity Check automatically creates system_state.conf and puts it into "settings" folder when none is present
+* Fortifier saves enabled and disabled safety measures to settings/fortifier.conf

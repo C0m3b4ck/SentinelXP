@@ -4,7 +4,7 @@ An antivirus for Windows XP focusing on diagnostics and user choice. Free, forev
 A bunch of modules that help you stay safe on your XP.
 # The Sentinel Project
 SentinelXP will be remade for other Windows versions.
-<br>**With online protection:** XP, Vista, 7, 8, maybe 10
+<br>**With online protection:** XP, Vista, 7, 8, maybe 10, other versions with spyware will be omitted - no need for AV when your OS (win 11 and on) is spyware
 <br>**Without online protection:** 95, 98, 2000, NT, maybe ME
 # Original Author 
 Development was started on April 13th, 2025, by C0m3b4ck.

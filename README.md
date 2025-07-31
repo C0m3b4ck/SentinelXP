@@ -1,4 +1,5 @@
 # SentinelXP
+![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/SentinelXP/total)
 An antivirus for Windows XP focusing on diagnostics and user choice. Free, forever, no spyware, no bloatware.
 # What is it?
 A bunch of modules that help you stay safe on your XP.
@@ -55,6 +56,3 @@ As of now, there are no more contributors than the original author.
 * Sneaky download prevention
 * A LOT MORE
 For more, check out ideas.txt: https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/ideas.txt
-
-# Downloads
-![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/SentinelXP/total)

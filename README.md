@@ -23,7 +23,7 @@ As of now, there are no more contributors than the original author.
 # Build from source
 <br>**Structure**
 <br>**C++**
-<br>Located here: https://github.com/Martingonn/SentinelXP/blob/main/Sentinel_CPP_Archive/structure.txt
+<br>Located here: https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/structure.txt
 <br>Once finished, will be pasted over.
 # C++ 98
 <br>Use gcc 3.4.5 from MinGW on Windows XP.

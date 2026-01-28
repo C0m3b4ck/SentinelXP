@@ -33,4 +33,6 @@ Load the VB6 project into Microsoft Visual Basic 6.0 IDE, then go to Project -> 
 * Menu module to operate on other modules
 * Sneaky download prevention
 * A LOT MORE
-For more, check out ideas.txt: https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/ideas.txt
+For more, check out ideas.txt: <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/ideas.txt>https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/ideas.txt</a>
+
+<b>Old README here</b>: <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/README_OLD.md>https://github.com/C0m3b4ck/SentinelXP/blob/main/README_OLD.md</a>

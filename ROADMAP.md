@@ -6,6 +6,11 @@ Watch this space for new developments.
 <br><b>By April</b> - basic offline scanning functions (getting file hashes, comparing them against malware hashes)
 <br><b>By May</b> - basic checking of running services and open ports, closing and killing them functionality
 
+<br><h2>Currently done:</h2>
+* function checking if user is running for the first time
+* mainmenu layout (most buttons non-functional)
+* tutorial layout (non-functional)
+
 # Beta
 <br><b>By June</b> - downloading and applying patches from sites like Legacy Update
 <br><b>By July</b> - active port scans for things like DDoS/exploits

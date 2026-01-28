@@ -7,7 +7,7 @@ Watch this space for new developments.
 <br><b>By May</b> - basic checking of running services and open ports, closing and killing them functionality
 
 <br><h2>Currently done:</h2>
-* function checking if user is running for the first time
+* function checking if user is running for the first time (if yes - creates config folder and asks if they want the tutorial)
 * mainmenu layout (most buttons non-functional)
 * tutorial layout (non-functional)
 

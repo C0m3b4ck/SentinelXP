@@ -17,6 +17,7 @@ Watch this space for new developments.
 
 # Release
 <br><b>By August</b> - packaged installer with all dependencies working on Windows 95 to Windows 11
+<br><b>By September</b> - implementing a Windows version detection system and function variants for different systems
 
 # The future, far, far away...
 <br>Making a version in .NET CF 1 for Windows CE

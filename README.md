@@ -1,51 +1,30 @@
 # SentinelXP ![GitHub All Releases](https://img.shields.io/github/downloads/C0m3b4ck/SentinelXP/total)
-An antivirus for Windows XP focusing on diagnostics and user choice. Free, forever, no spyware, no bloatware.
+An antivirus for Windows XP focusing on diagnostics and user choice. Free, forever, no spyware, no bloatware, open-source, light, maximum compatibility.
 # What is it?
-A bunch of modules that help you stay safe on your XP.
+A bunch of modules that help you stay safe on your legacy (and modern) Windows
 # The Sentinel Project
-SentinelXP will be remade for other Windows versions.
-<br>**With online protection:** XP, Vista, 7, 8, maybe 10, other versions with spyware will be omitted - no need for AV when your OS (win 11 and on) is spyware
-<br>**Without online protection:** 95, 98, 2000, NT, maybe ME
+SentinelXP will have compatibility with all Windows versions from 95 to 11, including:
+95, 98, 98 SE, 2000, ME, NT 4.0, XP, Vista, 7, 8, 8.1, 10, 11 and after
+<b>I believe this is possible thanks to the dependency packaging skills I aquired thanks to <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>BookwormVB</a></b>
 # Original Author 
-Development was started on April 13th, 2025, by C0m3b4ck.
+Development in C++ was started on April 13th, 2025, by C0m3b4ck, with an XP-only version intended.
+Development resumed on January 27th, 2026, by C0m3b4ck, using VB 6 and a cross-compatible version intended.
 # Contributors 
  <br>***Code***<br>
 As of now, there are no more contributors than the original author.
  # How can you contribute?
- Simply make a contribution here, on Github. Another, better way, would be to send me links to malware repositories so that I can train the antivirus.
- <br> Remember, you have to send me the links/files yourself, as I have no server to send the files to. When I will have, I will only send out file hashes with your explicit permission. You will be able to see that, as the project will be open-source forever.
- <br>**You can also join the conversation here:** https://www.xpforums.com/conversations/windowsxp-antivirus.272/
+ Simply make a contribution here, on Github. Another, better way, would be to send me links to malware repositories and hash databases so that I can train the antivirus on them. You can also inform me of your experience and any bugs that occur.
+ <br>**You can also join the conversation here:** <a href=https://www.xpforums.com/threads/sentinel-xp-development.935395/>https://www.xpforums.com/threads/sentinel-xp-development.935395/</a>
 # Disclaimer!!!
-**We are not viable for any damages you sustain due to malware!!!**
-**The best antivirus is staying vigilant with what you do in the internet!!!**
+**We are not viable for any damages you sustain due to malware or this program. However, we will try to help you recover and fix any problems you encounter.**
+**The best antivirus is staying vigilant with what you do on the internet, especially with what you download.**
 # How to use
-  **Just run the executable!**
+  **Portable version**
+  Just unpack the compressed archive, then run SentinelXP[versionhere].exe from the <b>unpacked archive</b>.
 # Build from source
-<br>**Structure**
-<br>**C++**
-<br>Located here: https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/structure.txt
-<br>Once finished, will be pasted over.
-# C++ 98
-<br>Use gcc 3.4.5 from MinGW on Windows XP.
-# Archival - Python
-<br>*Leaving this in because I spent over 35 hours on this.
-<br>You will need:
-<br>__Py2Exe__
-<br>You can get Py2Exe as .iso file mountable to VM here: <a href="https://github.com/Martingonn/SentinelXP/blob/main/Build/Build%20Tools/py2exe-0.6.9.iso">
-<br>*__Steps:__*
-<br>**1.** Mount py2exe .iso into your Windows XP
-<br>**2.** Run the installer.
-<br>**3.** Once you installed Py2Exe, make a "setupy.py" that looks like this:
-<br>from distutils.core import setup
-<br>import py2exe
-<br>
-<br>setup(console=['yourscript.py'])
-<br>**4.** In the same directory, run:
-<br>*python setup.py py2exe
-<br>**5.** Done! 
-<br> I wasted over 35 hours on this... trying out different ways... until finally...
-
+Load the VB6 project into Microsoft Visual Basic 6.0 IDE, then go to Project -> Compile.
 # Future Additions
+* all previous features from C++ and python versions
 * Packet inspection
 * Monitoring port connections
 * Opening .exe and inspecting contents

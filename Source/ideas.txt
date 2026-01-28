@@ -1,4 +1,12 @@
 //New modules\\
+* Menu module to operate on other modules - the first thing made on this project, will show Security Tip of the Day
+* File Monitor - shows files being modified, accessed and created, alerts if that happens in system
+* Windows Integrity Check - checks for missing/corrupted .dlls
+* "No antivirus" pop-up remover script (no support for GUID yet)
+* RAM checker - shows RAM used by Windows and non-Windows processes
+* Metadata wiper - wipes metadata from .jpg and .txt files
+* Connection Console - checks which processes are trying to "call home" (reaching out to servers, especially if that is unwanted)
+* Fortifier Module - makes your machine invulnreable from selected XP exploits (for example via closing vulnreable and obsolete ports)
 * Packet inspection of incoming packets
 * Opening .exe and inspecting contents - checks for suspicious code inside .exe files, like obfuscation
 * Anti-phishing website module - prevents user from connecting to malicious site by terminating that connection
@@ -33,14 +41,7 @@
 * Clipboard Protector - protects from clipboard stealers
 
 ///Done\\\
-* Menu module to operate on other modules - the first thing made on this project, will show Security Tip of the Day
-* File Monitor - shows files being modified, accessed and created, alerts if that happens in system
-* Windows Integrity Check - checks for missing/corrupted .dlls
-* "No antivirus" pop-up remover script (no support for GUID yet)
-* RAM checker - shows RAM used by Windows and non-Windows processes
-* Metadata wiper - wipes metadata from .jpg and .txt files
-* Connection Console - checks which processes are trying to "call home" (reaching out to servers, especially if that is unwanted)
-* Fortifier Module - makes your machine invulnreable from selected XP exploits (for example via closing vulnreable and obsolete ports)
+
 
 ///Expansion ideas\\\
 * The antivirus will remove the "No antivirus" pop-up only if it has unique GUID for user, therefore a GUID generator will be needed

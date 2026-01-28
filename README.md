@@ -6,6 +6,8 @@ A bunch of modules that help you stay safe on your legacy (and modern) Windows
 SentinelXP will have compatibility with all Windows versions from 95 to 11, including:
 95, 98, 98 SE, 2000, ME, NT 4.0, XP, Vista, 7, 8, 8.1, 10, 11 and after
 <b>I believe this is possible thanks to the dependency packaging skills I aquired thanks to <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>BookwormVB</a></b>
+# Roadmap
+<b>For the roadmap, check here: </b> <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/ROADMAP.md>https://github.com/C0m3b4ck/SentinelXP/blob/main/ROADMAP.md</a>
 # Original Author 
 Development in C++ was started on April 13th, 2025, by C0m3b4ck, with an XP-only version intended.
 Development resumed on January 27th, 2026, by C0m3b4ck, using VB 6 and a cross-compatible version intended.

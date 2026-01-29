@@ -9,7 +9,17 @@ Watch this space for new developments.
 <br><h2>Currently done:</h2>
 * function checking if user is running for the first time (if yes - creates config folder and asks if they want the tutorial)
 * mainmenu layout (most buttons non-functional)
-* tutorial layout (non-functional)
+* tutorial layout (non-functional - need actual functionality to show in tutorial)
+* settings form (finished)
+
+<br><h2>About to be added:</h2>
+* loading color
+* 4 main menu (proactive and active, offline and online) layouts
+* Windows version check (for the future)
+* running services check
+* running port check
+* checking for patches + patch list
+* recommending patching/closing if "\logs\pro_onl" or other dir (first patch run, just like first program run)
 
 # Beta
 <br><b>By June</b> - downloading and applying patches from sites like Legacy Update

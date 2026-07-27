@@ -8,7 +8,7 @@ A bunch of modules that help you stay safe on your legacy (and by extention, mod
 # The Sentinel Project
 SentinelXP will have compatibility with all Windows versions from 95 to 11, including:
 95, 98, 98 SE, 2000, ME, NT 4.0, XP, Vista, 7, 8, 8.1, 10, 11 and after
-<
+
 # Roadmap
 <b>For the roadmap, check here: </b> <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/ROADMAP.md>https://github.com/C0m3b4ck/SentinelXP/blob/main/ROADMAP.md</a>
 # Original Author 

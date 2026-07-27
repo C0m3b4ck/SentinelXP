@@ -4,16 +4,15 @@
 <br>
 <br>An antivirus for Windows XP focusing on diagnostics and user choice. Free, forever, no spyware, no bloatware, open-source, light, maximum compatibility.
 # What is it?
-A bunch of modules that help you stay safe on your legacy (and modern) Windows
+A bunch of modules that help you stay safe on your legacy (and by extention, modern) Microsoft Windows operating system.
 # The Sentinel Project
 SentinelXP will have compatibility with all Windows versions from 95 to 11, including:
 95, 98, 98 SE, 2000, ME, NT 4.0, XP, Vista, 7, 8, 8.1, 10, 11 and after
-<b>I believe this is possible thanks to the dependency packaging skills I aquired thanks to <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>BookwormVB</a></b>
+<
 # Roadmap
 <b>For the roadmap, check here: </b> <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/ROADMAP.md>https://github.com/C0m3b4ck/SentinelXP/blob/main/ROADMAP.md</a>
 # Original Author 
 Development in C++ was started on April 13th, 2025, by C0m3b4ck, with an XP-only version intended.
-Development resumed on January 27th, 2026, by C0m3b4ck, using VB 6 and a cross-compatible version intended.
 # Contributors 
  <br>***Code***<br>
 As of now, there are no more contributors than the original author.
@@ -22,13 +21,13 @@ As of now, there are no more contributors than the original author.
  <br>**You can also join the conversation here:** <a href=https://www.xpforums.com/threads/sentinel-xp-development.935395/>https://www.xpforums.com/threads/sentinel-xp-development.935395/</a>
 # Disclaimer!!!
 **We are not viable for any damages you sustain due to malware or this program. However, we will try to help you recover and fix any problems you encounter.**
-**The best antivirus is staying vigilant with what you do on the internet, especially with what you download.**
+**The best antivirus is staying vigilant with what you do on the internet and your device, especially with what you download.**
 # How to use
   **Portable version**
   Just unpack the compressed archive, then run SentinelXP[versionhere].exe from the <b>unpacked archive</b>.
 # Build from source
-Load the VB6 project into Microsoft Visual Basic 6.0 IDE, then go to Project -> Compile.
-# Future Additions
+Will use MinGW and GCC.
+# Future Additions (not all listed, check plan.txt)
 * all previous features from C++ and python versions
 * Packet inspection
 * Monitoring port connections
@@ -38,6 +37,6 @@ Load the VB6 project into Microsoft Visual Basic 6.0 IDE, then go to Project -> 
 * Menu module to operate on other modules
 * Sneaky download prevention
 * A LOT MORE
-For more, check out ideas.txt: <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/ideas.txt>https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/ideas.txt</a>
+For more, check out plan.txt: <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/plan.txt>https://github.com/C0m3b4ck/SentinelXP/blob/main/Source/plan.txt</a>
 
-<b>Old README here</b>: <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/README_OLD.md>https://github.com/C0m3b4ck/SentinelXP/blob/main/README_OLD.md</a>
+<b>Old README here</b>: <a href=https://github.com/C0m3b4ck/SentinelXP/blob/main/archive/README_OLD.md>https://github.com/C0m3b4ck/SentinelXP/blob/main/archive/README_OLD.md</a>

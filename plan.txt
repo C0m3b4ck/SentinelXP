@@ -1,0 +1,17 @@
+Offline sec:
+-> passive:
+* compare against known malware fuzzy hashes
+* checks dependencies of a program (either for behavior prediction like network use, or checking whether a legit program tries to use an infected DLL)
+* check for bad system policy (running programs with Admin privileges as default, unnecessary services, etc.)
+-> active:
+* runs small controlled sandbox to get behavior
+* checks which process accesses which files/folders (such as ransomware gradually taking and encrypting files one-by-one)
+-> learning:
+* save hashes of things the user marks as malware
+* teeny-tiny C++ ML framework for additional on-device learning
+Network sec:
+* make sure user's machine is not scanning internet/own network
+* check for suspicious connections (Tor, mining pools, blacklisted countries)
+* packet scanning
+* MITM detection
+* anti-phishing (for example - checking for URLs similar to legitimate site)

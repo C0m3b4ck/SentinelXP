@@ -1,0 +1,2 @@
+C:\mingw32\bin\g++.exe main_cli.cpp user_interact.cpp -o test.exe -static-libgcc -static-libstdc++
+C:/mingw32/bin/g++.exe main_cli.cpp user_interact.cpp -o test.exe -static-libgcc -static-libstdc++
